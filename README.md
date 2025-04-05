@@ -31,11 +31,6 @@ git clone https://github.com/rajVashishtha/auxano.git
 cd auxano
 
 # Install frontend
-cd client
 yarn
 yarn dev
 
-# Install backend
-cd ../server
-yarn
-yarn dev
